@@ -1,0 +1,16 @@
+{
+  "works": {
+    "pl": [
+      { "src": "/alfred.png", "alt": "" },
+      { "src": "/navy.png", "alt": "" },
+      { "src": "/riflesso.png", "alt": "" },
+      { "src": "/bal.png", "alt": "" }
+    ],
+    "en": [
+      { "src": "/alfred.png", "alt": "" },
+      { "src": "/navy.png", "alt": "" },
+      { "src": "/riflesso.png", "alt": "" },
+      { "src": "/bal.png", "alt": "" }
+    ]
+  }
+}

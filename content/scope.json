@@ -1,0 +1,55 @@
+{
+  "scope": {
+    "pl": [
+      {
+        "title": "Design",
+        "elements": [
+          "Redesign",
+          "Refaktoryzacja",
+          "Komponenty",
+          "Landing pages",
+          "Całe strony internetowe",
+          "Social media"
+        ]
+      },
+      {
+        "title": "Programowanie",
+        "elements": [
+          "Komponenty",
+          "Blogi",
+          "Konwersja projektu na kod",
+          "Landing page",
+          "Szablony stron internetowych",
+          "Konwersja do Tailwind CSS",
+          "Konwersja do Astro"
+        ]
+      }
+    ],
+    "en": [
+      {
+        "title": "Design",
+        "elements": [
+          "Redesigns",
+          "Refactors",
+          "Components",
+          "Landing pages",
+          "Full website",
+          "Open Graphs",
+          "Social media assets"
+        ]
+      },
+      {
+        "title": "Development",
+        "elements": [
+          "Components",
+          "Blogs",
+          "Design to code",
+          "Landing pages",
+          "Website templates",
+          "Convert to Tailwind CSS",
+          "Convert to Astro"
+        ]
+      }
+    ]
+  }
+}

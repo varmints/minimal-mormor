@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "pl": [
+      { "title": "Prace", "link": "#work" },
+      { "title": "Jak to działa", "link": "#how" },
+      { "title": "Narzędzia", "link": "#tools" },
+      { "title": "Cennik", "link": "#pricing" },
+      { "title": "Faq", "link": "#faq" }
+    ],
+    "en": [
+      { "title": "Work", "link": "#work" },
+      { "title": "How it works", "link": "#how" },
+      { "title": "Tools", "link": "#tools" },
+      { "title": "Plans", "link": "#pricing" },
+      { "title": "Faq", "link": "#faq" }
+    ]
+  }
+}

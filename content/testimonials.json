@@ -1,0 +1,44 @@
+{
+  "testimonials": {
+    "pl": [
+      {
+        "testimonial": "Kamil to prawdziwy rarytas, bez wysiłku łączący sferę projektowania i kodowania. Jego projekty są po mistrzowsku dopracowane, zachowując idealną równowagę pomiędzy byciem modnym a wyjątkową oryginalnością.",
+        "photo": "/volkan.jpg",
+        "name": "Volkan Kaja",
+        "company": "Founder of Versoly"
+      },
+      {
+        "testimonial": "Kamil to rzadki gatunek projektanta i programisty, który rozumie potrzeby biznesowe. Wykorzystał swoje wcześniejsze doświadczenie, aby bardzo szybko przygotować kilka lądowań dla Versoly.",
+        "photo": "/robaustin.jpg",
+        "name": "Robert Austin",
+        "company": "Founder of Built At Lightspeed."
+      },
+      {
+        "testimonial": "Kamil ma świetne oko do projektowania, a praca z nim to absolutna przyjemność. Zdecydowanie planuję współpracę z nim przy moich przyszłych projektach. Z całego serca polecam go każdemu, kto szuka wyjątkowej pracy wysokiej jakości.",
+        "photo": "/tonylea.jpg",
+        "name": "Tony Lea",
+        "company": "Founder of DevDojo"
+      }
+    ],
+    "en": [
+      {
+        "testimonial": "Kamil is a true rarity, effortlessly bridging the realms of design and coding. His designs are masterfully polished, striking a perfect balance between being on trend and remaining distincltly original.",
+        "photo": "/volkan.jpg",
+        "name": "Volkan Kaja",
+        "company": "Founder of Versoly"
+      },
+      {
+        "testimonial": "Kamil is a rare breed of designer &amp; dev that understands business needs. He leveraged his previous experience to build out a few landings very quickly for Versoly.",
+        "photo": "/robaustin.jpg",
+        "name": "Robert Austin",
+        "company": "Founder of Built At Lightspeed."
+      },
+      {
+        "testimonial": "Kamil has a great eye for design and he is an absolute pleasure to work with. I definitely plan on working with him on future projects of mine. I wholeheartedly recommend him to anyone seeking standout, quality work.",
+        "photo": "/tonylea.jpg",
+        "name": "Tony Lea",
+        "company": "Founder of DevDojo"
+      }
+    ]
+  }
+}

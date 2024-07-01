@@ -1,0 +1,56 @@
+{
+  "faq": {
+    "pl": [
+      {
+        "title": "Kto prowadzi studio?",
+        "answer": "Nazywam się Kamil Morkisz, projektant interfejsów użytkownika i programista front-end. Tworzę również produkty dla siebie. Dowiedz się więcej <a class=\"text-blue-500 hover:text-black\" href=\"https://mormor.dev/\">tutaj</a>"
+      },
+      {
+        "title": "Jak komunikować się i zarządzać projektem?",
+        "answer": "W Mormor wykorzystujemy Breeew do zarządzania projektami, zapewniając bezproblemową komunikację i współpracę."
+      },
+      {
+        "title": "Jak szybko wykonam jakąś pracę?",
+        "answer": "Oczekuj wstępnej koncepcji w ciągu 2-3 dni, a my wprowadzimy poprawki, aż osiągniesz pełną satysfakcję. W przypadku większych projektów może to potrwać do 4 tygodni."
+      },
+      {
+        "title": "Dlaczego masz tylko dwa miejsca?",
+        "answer": "W Mormor wierzymy w zapewnianie klientom najlepszej możliwej obsługi i aby to zapewnić, zdecydowaliśmy się ograniczyć obciążenie pracą tylko do dwóch projektów jednocześnie. Takie podejście pozwala poświęcić całą uwagę i wiedzę specjalistyczną każdemu projektowi, zapewniając jakość i terminowość dostaw."
+      },
+      {
+        "title": "Co jeśli nie podoba mi się projekt?",
+        "answer": "W Mormor chcemy, abyś był zadowolony z wyników! Stąd nieograniczone prośby."
+      },
+      {
+        "title": "Czy są jakieś zwroty pieniędzy?",
+        "answer": "Niestety nie. Ze względu na intensywne wymagania twórcze dotyczące dostarczania najwyższej klasy projektów i rozwoju w krótkich ramach czasowych oraz dokładne badania zainwestowane w celu osiągnięcia najlepszych wyników, w mormor nie może świadczyć naszych usług bez wynagrodzenia. <br /><br /> Rozumiemy jednak, jak ważne jest zadowolenie klienta. Jeżeli po wstępnej rozmowie okaże się, że nasze usługi nie odpowiadają Twoim potrzebom i nie rozpoczęto żadnych prac, możesz mieć pewność, że przysługuje Ci 100% zwrot kosztów. Chcemy, aby nasi klienci czuli się pewnie w interakcjach z nami."
+      }
+    ],
+    "en": [
+      {
+        "title": "Who runs the studio?",
+        "answer": "My name is Kamil Morkisz, UI Designer and Front end Developer. I also build products for myself. Learn more <a class=\"text-blue-500 hover:text-black\" href=\"https://mormor.dev/\">here</a>"
+      },
+      {
+        "title": "How do we communicate and manage the project?",
+        "answer": "Mormor uses Breeew for project management, ensuring seamless communication and collaboration."
+      },
+      {
+        "title": "How quickly will I get some work done?",
+        "answer": "Expect the initial concept within 2-3 days, and mommor will make revisions until it meets your complete satisfaction. For bigger projects it can take up to 4 weeks."
+      },
+      {
+        "title": "Why do you only have two spots?",
+        "answer": "Mormor believes in providing the best possible service to clients, and to ensure that, Mormor has decided to limit the workload to just two projects at a time. This approach allows Mormor to dedicate it's full attention and expertise to each project, ensuring quality and timely delivery."
+      },
+      {
+        "title": "What if i don't like the design?",
+        "answer": "Mormor wants you to be happy with the results! Hence the unlimited requests."
+      },
+      {
+        "title": "Are there any refunds?",
+        "answer": "Unfortunately, not. Because of the intense creative demands for delivering top-notch design and development within tight timeframes and the thorough research invested to achieve the best outcomes, Mormor's cannot provide our services without compensation. <br /><br /> However, we understand the importance of client satisfaction. If, after our initial discussion, it turns out that our services do not align with your needs and no work has been initiated, rest assured that you are eligible for a 100% refund. Mormor value transparency and want our clients to feel confident in their interactions with Mormor's."
+      }
+    ]
+  }
+}
