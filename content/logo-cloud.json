@@ -1,0 +1,64 @@
+{
+  "logoCloud": [
+    {
+      "title": "Angular",
+      "link": "https://angular.io/",
+      "icon": "simple-icons:angular"
+    },
+    {
+      "title": "Vue.js",
+      "link": "https://vuejs.org/",
+      "icon": "simple-icons:vuedotjs"
+    },
+    {
+      "title": "React",
+      "link": "https://react.dev/",
+      "icon": "simple-icons:react"
+    },
+    {
+      "title": "Svelte",
+      "link": "https://svelte.dev/",
+      "icon": "simple-icons:svelte"
+    },
+    {
+      "title": "Tailwind CSS",
+      "link": "https://tailwindcss.com/",
+      "icon": "simple-icons:tailwindcss"
+    },
+    {
+      "title": "Nuxt",
+      "link": "https://nuxt.com/",
+      "icon": "simple-icons:nuxtdotjs"
+    },
+    {
+      "title": "Github",
+      "link": "https://github.com/",
+      "icon": "simple-icons:github"
+    },
+    {
+      "title": "Visual Studio Code",
+      "link": "https://code.visualstudio.com/",
+      "icon": "simple-icons:visualstudiocode"
+    },
+    {
+      "title": "Astro",
+      "link": "https://astro.build/",
+      "icon": "simple-icons:astro"
+    },
+    {
+      "title": "Next",
+      "link": "https://nextjs.org/",
+      "icon": "simple-icons:nextdotjs"
+    },
+    {
+      "title": "Stripe",
+      "link": "https://stripe.com/",
+      "icon": "simple-icons:stripe"
+    },
+    {
+      "title": "DatoCMS",
+      "link": "https://www.datocms.com/",
+      "icon": "simple-icons:datocms"
+    }
+  ]
+}

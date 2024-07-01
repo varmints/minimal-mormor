@@ -25,10 +25,9 @@
             </p>
           </div>
           <div>
-            <div class="flex items-center gap-2 text-black">
+            <div class="mt-4 flex items-center gap-2 text-black">
               <p class="text-xs">{{ $t("pricing.available") }}</p>
               <div class="h-2 w-2 rounded-full bg-black"></div>
-
               <div class="h-2 w-2 rounded-full border border-black"></div>
             </div>
             <div class="mt-4 flex flex-col border-t pt-4">
